@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddhan288&show_icons=true&locale=en" alt="ddhan288" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=ddhan288&](https://streak-stats.demolab.com?user=ddhan288&theme=shades-of-purple&hide_border=true)https://streak-stats.demolab.com?user=ddhan288&theme=shades-of-purple&hide_border=true" alt="ddhan288" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddhan288&](https://streak-stats.demolab.com?user=ddhan288&theme=shades-of-purple&hide_border=true)https://streak-stats.demolab.com?user=ddhan288&theme=shades-of-purple&hide_border=true" alt="ddhan288" /></p>
 
