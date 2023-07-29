@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddhan288&show_icons=true&locale=en" alt="ddhan288" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddhan288&" alt="ddhan288" /></p>
+<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=ddhan288)](https://git.io/streak-stats)" alt="ddhan288" /></p>
